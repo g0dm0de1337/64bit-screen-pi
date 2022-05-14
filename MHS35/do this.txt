@@ -1,0 +1,7 @@
+git clone https://github.com/g0dm0de1337/64bit-screen-pi.git
+
+cd 64bit-screen-pi
+
+chmod +x install.sh
+
+sudo bash install.sh
