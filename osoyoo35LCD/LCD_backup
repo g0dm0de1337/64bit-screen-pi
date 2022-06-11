@@ -1,0 +1,2 @@
+sudo  cp /boot/config.txt ./boot/config_back.txt   
+sudo reboot
